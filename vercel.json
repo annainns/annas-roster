@@ -1,8 +1,0 @@
-{
-  "crons": [
-    {
-      "path": "/api/monday-drop",
-      "schedule": "0 9 * * 1"
-    }
-  ]
-}
